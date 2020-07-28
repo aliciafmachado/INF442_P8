@@ -1,4 +1,4 @@
-# Traffic Accident Injury Database
+# Analysis of Traffic Accident Injury Database
 
 Group project for Computer Science class INF442 at École Polytechnique, developed with Alicia Fortes Machado.
 
